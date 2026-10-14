@@ -1,0 +1,31 @@
+# Java / Maven
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/*.iml
+
+# Node / Vite / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/npm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Docker
+**/.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
